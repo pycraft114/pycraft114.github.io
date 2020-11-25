@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Front-End Developer
 permalink: /about/
 ---
-
-## Front-End Developer
 
 Based in Seoul
 

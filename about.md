@@ -57,6 +57,4 @@ Estimated time of loading over 800 annotations initially improved about 90%
 
 # I’m available for interesting projects.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f16c63d4-617f-462f-9f15-5b28faa27f86/leoosa_logo_nda.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f16c63d4-617f-462f-9f15-5b28faa27f86/leoosa_logo_nda.png)
-
 **pycraft114[@gmail.com](mailto:heyleoosa@gmail.com)**

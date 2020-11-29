@@ -35,5 +35,6 @@ Right after the main image is loaded, the tool is ready for user interactions an
 while more than 300 thumbnails are being created via OffscreenCanvas.
 
 #### Worth reading documentations
-> https://developers.google.com/web/updates/2018/08/offscreen-canvas
-> https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+[https://developers.google.com/web/updates/2018/08/offscreen-canvas](https://developers.google.com/web/updates/2018/08/offscreen-canvas)
+
+[https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)

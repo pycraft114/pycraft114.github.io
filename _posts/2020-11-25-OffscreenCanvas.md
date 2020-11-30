@@ -40,3 +40,5 @@ while more than 300 thumbnails are being created via OffscreenCanvas.
 [https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 [https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast](https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast)
+
+[https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware)
